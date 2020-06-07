@@ -22,4 +22,8 @@ public class Problem_3 {
 
         return prefix;
     }
+
+    public static String longestCommonPrefixDc(String[] strs) {
+        return "abc";
+    }
 }
