@@ -1,0 +1,8 @@
+Divide and Conquer Problem No:
+14) Longest Common Prefix
+53) Maximum Subarray Sum
+169) Majority Element
+240) Search a 2-D Matrix
+
+Binary Search Problems
+35) Search Insert Position
